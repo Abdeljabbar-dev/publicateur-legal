@@ -1,0 +1,8 @@
+@import "../../../public/css/variables.scss";
+
+.copyright {
+  background-color: rgba($color: $main-color, $alpha: 0.9);
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}

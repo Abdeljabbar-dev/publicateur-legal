@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g id="Iconly_Bulk_Calendar" data-name="Iconly/Bulk/Calendar" opacity="0.054">
+    <g id="Calendar" transform="translate(25 16.667)">
+      <path id="Fill_1" data-name="Fill 1" d="M42.728,106.192C16.628,106.192,0,89.775,0,63.442V0H150V63.952c0,26.152-16.463,42.24-42.81,42.24Z" transform="translate(0 60.475)" fill="#fff"/>
+      <path id="Fill_4" data-name="Fill 4" d="M0,48.058c.107-4.892.519-14.6,1.293-17.725C5.244,12.758,18.664,1.592,37.846,0H112.1c19.018,1.675,32.6,12.917,36.553,30.333.766,3.042,1.177,12.825,1.284,17.725Z" transform="translate(0.028 12.416)" fill="#fff" opacity="0.4"/>
+      <path id="Fill_6" data-name="Fill 6" d="M6.339,38.25a6.223,6.223,0,0,0,6.339-6.417V6.425A6.23,6.23,0,0,0,6.339,0,6.23,6.23,0,0,0,0,6.425V31.833A6.223,6.223,0,0,0,6.339,38.25" transform="translate(37.868 0)" fill="#fff"/>
+      <path id="Fill_9" data-name="Fill 9" d="M6.339,38.25a6.272,6.272,0,0,0,6.339-6.417V6.425A6.279,6.279,0,0,0,6.339,0,6.23,6.23,0,0,0,0,6.425V31.833A6.223,6.223,0,0,0,6.339,38.25" transform="translate(99.452 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

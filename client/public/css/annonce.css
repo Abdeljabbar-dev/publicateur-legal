@@ -1,0 +1,35 @@
+.form {
+  line-height: 50px;
+}
+
+.sidebar-info {
+  min-height: calc(100vh - 80px);
+  width: 40vw;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 40px 30px;
+}
+
+.sidebar-info .card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+  display: flex;
+  opacity: 0.6;
+  flex-direction: row;
+}
+
+.sidebar-container {
+  max-width: 500px;
+}
+
+.sidebar-info .card:hover {
+  opacity: 1;
+}
+
+body:has(.left-bar) .header {
+  position: fixed;
+  z-index: 999999;
+}
